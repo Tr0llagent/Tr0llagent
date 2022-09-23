@@ -1,5 +1,5 @@
 # 💫 About Me:
-I code discord Bots and Minecraft plugins.<br>I also sell them on Fiverr
+I am a Java and Python Developer and i mostly code Discord Bots and Minecraft Plugins
 
 
 # 💻 Tech Stack:
