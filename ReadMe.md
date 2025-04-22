@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a Java and Python Developer and i mostly code Discord Bots and Minecraft Plugins
+I am a Java Developer and i mostly code Discord Bots and Minecraft Plugins
 
 
 # 💻 Tech Stack:
